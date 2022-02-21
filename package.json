@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "dev": "frontend/frontent-desafio/vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "mysql": "^2.18.1",
+    "yarn": "^1.22.17"
+  }
+}
